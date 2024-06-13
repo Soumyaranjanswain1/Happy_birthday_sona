@@ -16,14 +16,14 @@ var config = {
     ],
    
     imgs: {
-         "Count your life by smiles, not tears": "xiaokeai.jpg",
+         "Count your life by smiles, not tears": "./imgs/xiaokeai.jpg",
     },
     desc: {
         turn_on: "Turn on",
         play: "Play",
         bannar_coming: "Click Here",
-        balloons_flying: "Click to Flying the ballon",
-        cake_fadein: "Wait for cake?",
+        balloons_flying: "Lets Decorate",
+        cake_fadein: "Show Cake",
         light_candle: "light up the candle",
         wish_message: "Make a wish",
         story: "A MESSAGE FOR YOU",
